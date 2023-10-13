@@ -1,0 +1,53 @@
+.empl-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+.list-item {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.employement-type {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 5px;
+}
+
+.jobs-bg-container {
+  background-color: #000000;
+  min-height: 100vh;
+  background-size: cover;
+}
+
+.jobs-bg-container2 {
+  display: flex;
+}
+
+.jobs-cont-1 {
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.hr-line {
+  border: 1px solid #ffffff;
+  margin-top: 10px;
+}
+
+.retry-btn {
+  background-color: #4f46e5;
+  padding: 5px;
+  color: #ffffff;
+  border-radius: 8px;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.ul-emp-type {
+  list-style-type: none;
+  margin-left: 0px;
+  margin-right: auto;
+}
