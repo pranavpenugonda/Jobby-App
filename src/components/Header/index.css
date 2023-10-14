@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   background-color: #272727;
+  width: 100%;
 }
 
 .nav-content {
