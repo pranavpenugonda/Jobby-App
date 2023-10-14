@@ -1,6 +1,7 @@
 .all-jobs-section-bg-cont {
   display: flex;
   min-height: 100vh;
+  min-width: 100%;
   background-size: cover;
 }
 
