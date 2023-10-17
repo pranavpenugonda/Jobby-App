@@ -197,7 +197,7 @@ class JobCardDetails extends Component {
 
         <div>
           <h1 className="skills-heading">Similar Jobs</h1>
-          <ul className="ul-similar-jobs-cont">
+          <ul className="ul-similar-jobs-container">
             {similarJobsData.map(eachJob => (
               <SimilarJobItem key={eachJob.id} jobDetails={eachJob} />
             ))}

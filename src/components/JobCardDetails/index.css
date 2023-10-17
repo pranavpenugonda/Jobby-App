@@ -28,11 +28,12 @@
     color: #ffffff;
     min-width: 100%;
   }
-  .ul-similar-jobs-cont {
+  .ul-similar-jobs-container {
     list-style-type: none;
     display: flex;
     flex-direction: column;
     margin-left: 0px;
+    padding-left: 0px;
   }
 }
 .job-details-success-view {
@@ -111,8 +112,9 @@
   margin-top: 20px;
 }
 
-.ul-similar-jobs-cont {
+.ul-similar-jobs-container {
   list-style-type: none;
   display: flex;
   margin-left: 0px;
+  padding-left: 0px;
 }
